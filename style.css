@@ -14,8 +14,22 @@
     /* ajoute un fond rose  */
     background-color: pink;
  }
-
+ .borderB {
+     border-bottom: 2px solid black
+ }
  .exo1 {
     display: flex;
-    border-bottom: 2px solid black;
  }
+ .exo2 {
+    display: flex;
+    justify-content: space-between;
+ }
+ .exo3 {
+    display: flex;
+    justify-content: center;
+ }
+ .exo4 {
+    
+ }
+
+
