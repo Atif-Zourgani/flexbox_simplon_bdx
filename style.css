@@ -29,7 +29,20 @@
     justify-content: center;
  }
  .exo4 {
-    
+    display: flex;
+    flex-direction: column;
  }
+ .exo5 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+ }
+.exo6 {
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
 
 
