@@ -1,0 +1,21 @@
+/* modifie tous les elements qui ont la class box 
+ */
+ .box {
+    /* defini la hauteur d'un element  */
+    height: 40px;
+    /* definie la largeur d'un element  */
+    width: 40px;
+    /* defini les bord d'un element  */
+    border: solid black 2px;
+    /* arrondir les bord  */
+    border-radius: 4px;
+    /* fait des marge sur un element  */
+    margin: 4px;
+    /* ajoute un fond rose  */
+    background-color: pink;
+ }
+
+ .exo1 {
+    display: flex;
+    border-bottom: 2px solid black;
+ }
